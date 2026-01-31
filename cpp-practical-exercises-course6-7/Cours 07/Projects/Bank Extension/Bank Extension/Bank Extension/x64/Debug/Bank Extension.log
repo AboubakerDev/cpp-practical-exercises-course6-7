@@ -1,0 +1,9 @@
+﻿  Bank Extension.cpp
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(97,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(449,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(490,13): warning C4129: 'B': unrecognized character escape sequence
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(502,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(543,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(326,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\Bank Extension\Bank Extension.cpp(389,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank Extension.vcxproj -> D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank Extension\Bank Extension\x64\Debug\Bank Extension.exe

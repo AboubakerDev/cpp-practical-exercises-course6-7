@@ -1,0 +1,5 @@
+﻿  Bank1.cpp
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank1\Bank1\Bank1\Bank1.cpp(79,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank1\Bank1\Bank1\Bank1.cpp(306,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank1\Bank1\Bank1\Bank1.cpp(369,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank1.vcxproj -> D:\ديسك دير\محمد ابو هدهود\07 Algorithms Problem Solving  Level 02\Bank1\Bank1\x64\Debug\Bank1.exe
